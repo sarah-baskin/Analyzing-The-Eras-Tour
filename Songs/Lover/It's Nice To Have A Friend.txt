@@ -1,5 +1,3 @@
-ooh
-ooh
 school
 bell
 ring
@@ -28,10 +26,8 @@ sleeping
 tent
 nice
 friend
-ooh
 nice
 friend
-ooh
 light
 pink
 sky
@@ -54,10 +50,8 @@ touch
 hand
 nice
 friend
-ooh
 nice
 friend
-ooh
 church
 bell
 ring
@@ -85,11 +79,7 @@ whole
 weekend
 nice
 friend
-ooh
 nice
 friend
-ooh
 nice
 friend
-ooh
-ooh

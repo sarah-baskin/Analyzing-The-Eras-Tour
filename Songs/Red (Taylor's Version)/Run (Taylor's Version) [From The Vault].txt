@@ -51,11 +51,8 @@ go
 one
 else
 run
-ooh
 run
-ooh
 run
-ooh
 run
 laugh
 like
@@ -110,11 +107,8 @@ go
 one
 else
 run
-ooh
 run
-ooh
 run
-ooh
 run
 hole
 heart
@@ -159,11 +153,7 @@ go
 one
 else
 run
-ooh
 run
-ooh
 run
-ooh
 run
-ooh
 run

@@ -203,7 +203,6 @@ next
 next
 rest
 history
-ooh
 eye
 wider
 distance

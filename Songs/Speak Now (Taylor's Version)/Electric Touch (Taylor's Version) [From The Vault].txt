@@ -52,7 +52,6 @@ forever
 heat
 electric
 touch
-mmm
 left
 rain
 lost
@@ -113,7 +112,6 @@ forever
 heat
 electric
 touch
-mmm
 thinking
 one
 time
@@ -157,7 +155,6 @@ got
 feelin
 electric
 touch
-ooh
 know
 could
 either
@@ -183,4 +180,3 @@ forever
 heat
 electric
 touch
-mmm

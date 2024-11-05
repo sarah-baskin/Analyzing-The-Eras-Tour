@@ -83,7 +83,6 @@ storm
 best
 dress
 fearless
-oh-oh
 well
 stood
 doorway
@@ -133,6 +132,4 @@ storm
 best
 dress
 fearless
-oh-oh
-oh-oh
 yeah

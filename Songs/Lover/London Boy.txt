@@ -67,7 +67,6 @@ london
 boy
 boy
 fancy
-ooh
 love
 high
 tea
@@ -190,7 +189,6 @@ boy
 boy
 fancy
 fancy
-ooh
 please
 show
 hackney
@@ -200,10 +198,8 @@ v
 bond
 street
 want
-ooh
 fancy
 woah-ah-ah
-ooh
 stick
 queen
 like
@@ -212,10 +208,8 @@ stella
 mccartney
 heath
 want
-ooh
 want
 fancy
 yeah
 fancy
 ah-ah
-ooh

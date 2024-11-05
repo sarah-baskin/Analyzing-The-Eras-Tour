@@ -44,7 +44,6 @@ body
 blue
 feeling
 got
-ooh
 woah-oh
 cruel
 summer
@@ -53,7 +52,6 @@ tell
 rule
 breakable
 heaven
-ooh
 woah-oh
 cruel
 summer
@@ -99,7 +97,6 @@ body
 blue
 feeling
 got
-ooh
 woah-oh
 cruel
 summer
@@ -108,7 +105,6 @@ tell
 rule
 breakable
 heaven
-ooh
 woah-oh
 cruel
 summer
@@ -154,7 +150,6 @@ body
 blue
 feeling
 got
-ooh
 woah-oh
 cruel
 summer
@@ -163,7 +158,6 @@ tell
 rule
 breakable
 heaven
-ooh
 woah-oh
 cruel
 summer

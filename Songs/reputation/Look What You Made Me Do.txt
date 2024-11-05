@@ -39,7 +39,6 @@ underlined
 check
 check
 twice
-ooh
 look
 made
 look
@@ -48,7 +47,6 @@ look
 made
 look
 made
-ooh
 look
 made
 look
@@ -108,7 +106,6 @@ underlined
 check
 check
 twice
-ooh
 look
 made
 look
@@ -117,7 +114,6 @@ look
 made
 look
 made
-ooh
 look
 made
 look
@@ -158,7 +154,6 @@ actress
 starrin
 bad
 dream
-ooh
 look
 made
 look
@@ -173,7 +168,6 @@ taylor
 come
 phone
 right
-ooh
 look
 made
 look
@@ -181,7 +175,6 @@ made
 look
 made
 dead
-ooh
 look
 made
 look
@@ -190,7 +183,6 @@ look
 made
 look
 made
-ooh
 look
 made
 look
@@ -199,7 +191,6 @@ look
 made
 look
 made
-ooh
 look
 made
 look
@@ -208,7 +199,6 @@ look
 made
 look
 made
-ooh
 look
 made
 look

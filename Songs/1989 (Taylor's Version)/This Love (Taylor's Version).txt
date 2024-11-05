@@ -30,7 +30,6 @@ love
 alive
 back
 dead
-oh-oh-oh
 hand
 let
 go
@@ -38,9 +37,6 @@ free
 love
 came
 back
-oh-oh-oh
-oh-oh-oh
-oh-oh-oh
 tossing
 turning
 struggled
@@ -72,7 +68,6 @@ love
 alive
 back
 dead
-oh-oh-oh
 hand
 let
 go
@@ -80,7 +75,6 @@ free
 love
 came
 back
-oh-oh-oh
 love
 left
 permanent
@@ -88,7 +82,6 @@ mark
 love
 glowing
 dark
-oh-oh-oh
 hand
 let
 go
@@ -96,22 +89,18 @@ free
 love
 came
 back
-oh-oh-oh
 love
 love
 love
 love
-oh-oh-oh
 love
 love
 love
 love
-oh-oh-oh
 love
 love
 love
 love
-oh-oh-oh
 love
 love
 love
@@ -137,7 +126,6 @@ love
 alive
 back
 dead
-oh-oh-oh
 hand
 let
 go
@@ -145,7 +133,6 @@ free
 love
 came
 back
-oh-oh-oh
 love
 love
 left
@@ -155,7 +142,6 @@ love
 love
 glowing
 dark
-oh-oh-oh
 love
 hand
 let
@@ -165,17 +151,14 @@ love
 love
 came
 back
-oh-oh-oh
 love
 love
 love
 love
-oh-oh-oh
 love
 love
 love
 love
-oh-oh-oh
 love
 love
 love
@@ -187,4 +170,3 @@ love
 love
 came
 back
-oh-oh-oh
