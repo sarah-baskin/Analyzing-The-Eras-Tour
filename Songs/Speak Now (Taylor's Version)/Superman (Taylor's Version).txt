@@ -38,7 +38,6 @@ watch
 superman
 fly
 away
-'ve
 got
 busy
 day
@@ -98,7 +97,6 @@ watch
 superman
 fly
 away
-'ve
 got
 busy
 day
@@ -125,7 +123,6 @@ world
 hope
 save
 girl
-n't
 forget
 forget
 far
@@ -136,7 +133,6 @@ go
 love-struck
 looking
 window
-n't
 forget
 forget
 right
@@ -146,7 +142,6 @@ wishing
 card
 wishing
 call
-'cause
 loved
 first
 day
@@ -154,7 +149,6 @@ watch
 superman
 fly
 away
-'ve
 got
 busy
 day
@@ -175,17 +169,5 @@ right
 ground
 come
 back
-la
-la
-la
-la
-la
-la
-la
-la
-la
-la
-la
-la
 come
 back

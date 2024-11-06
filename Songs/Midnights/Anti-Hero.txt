@@ -21,9 +21,6 @@ price
 vice
 end
 crisis
-tale
-old
-time
 wake
 screaming
 dreaming
@@ -31,12 +28,9 @@ one
 day
 watch
 leaving
-'cause
 got
 tired
 scheming
-last
-time
 hi
 problem
 teatime
@@ -79,9 +73,6 @@ altruism
 like
 kind
 congressman
-tale
-old
-time
 wake
 screaming
 dreaming
@@ -92,10 +83,7 @@ leaving
 life
 lose
 meaning
-last
-time
 hi
-problem
 problem
 teatime
 everybody
@@ -135,13 +123,8 @@ agrees
 everybody
 agrees
 hi
-hi
-problem
 problem
 teatime
-teatime
-everybody
-agrees
 everybody
 agrees
 stare

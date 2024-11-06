@@ -43,7 +43,6 @@ song
 cab
 first
 trip
-la
 ate
 favorite
 spot
@@ -138,5 +137,3 @@ string
 tying
 ooh-ooh-ooh-ooh
 ooh-ooh-ooh-ooh
-ah-ah-ah
-ah-ah-ah

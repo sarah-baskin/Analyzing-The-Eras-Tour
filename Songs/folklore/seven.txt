@@ -86,7 +86,6 @@ love
 pack
 doll
 sweater
-'ll
 move
 india
 forever

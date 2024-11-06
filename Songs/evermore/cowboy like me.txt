@@ -24,7 +24,6 @@ take
 one
 know
 one
-'re
 cowboy
 like
 never
@@ -44,7 +43,6 @@ take
 one
 know
 one
-'re
 cowboy
 like
 perched
@@ -62,7 +60,6 @@ could
 way
 forward
 pay
-'re
 bandit
 like
 eye
@@ -82,7 +79,6 @@ way
 forward
 know
 pay
-'re
 cowboy
 like
 perched
@@ -100,7 +96,6 @@ could
 way
 forward
 pay
-'re
 bandit
 like
 eye
@@ -154,7 +149,6 @@ take
 one
 know
 one
-'re
 cowboy
 like
 never

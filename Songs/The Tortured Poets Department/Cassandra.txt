@@ -10,7 +10,6 @@ pas
 lose
 track
 saying
-'cause
 got
 call
 first
@@ -107,7 +106,6 @@ pas
 lose
 track
 saying
-'cause
 lost
 killed
 cassandra

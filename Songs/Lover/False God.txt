@@ -51,6 +51,7 @@ lip
 even
 false
 god
+would
 still
 worship
 might
@@ -61,12 +62,15 @@ hip
 even
 false
 god
+would
 still
 worship
 love
+would
 still
 worship
 love
+would
 still
 worship
 love
@@ -92,7 +96,6 @@ daring
 leave
 try
 scare
-'re
 west
 village
 still
@@ -120,6 +123,7 @@ lip
 even
 false
 god
+would
 still
 worship
 might
@@ -130,12 +134,15 @@ hip
 even
 false
 god
+would
 still
 worship
 love
+would
 still
 worship
 love
+would
 still
 worship
 love

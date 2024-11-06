@@ -38,7 +38,6 @@ please
 knee
 change
 prophecy
-n't
 want
 money
 someone
@@ -56,7 +55,6 @@ like
 fool
 fable
 sinking
-sinking
 slow
 quicksand
 poison
@@ -70,7 +68,6 @@ please
 knee
 change
 prophecy
-n't
 want
 money
 someone
@@ -130,7 +127,6 @@ please
 knee
 change
 prophecy
-n't
 want
 money
 someone
@@ -167,4 +163,3 @@ beg
 looked
 sky
 said
-please

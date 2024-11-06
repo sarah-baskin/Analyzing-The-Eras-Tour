@@ -27,7 +27,6 @@ queen
 sand
 castle
 destroys
-'cause
 fit
 right
 puzzle
@@ -58,23 +57,18 @@ string
 tell
 run
 love
-love
-'cause
 seen
 first
 saw
-boy
 boy
 break
 favorite
 toy
 toy
 queen
-queen
 sand
 castle
 destroys
-'cause
 knew
 much
 danger
@@ -83,7 +77,6 @@ touch
 saw
 forever
 smashed
-boy
 boy
 break
 favorite
@@ -104,7 +97,6 @@ felt
 played
 pretend
 ken
-'cause
 took
 box
 stole

@@ -10,7 +10,6 @@ eye
 tell
 friend
 run
-'ll
 flushed
 return
 take
@@ -84,7 +83,6 @@ little
 time
 want
 scream
-n't
 call
 kid
 call
@@ -99,7 +97,6 @@ know
 see
 anyone
 else
-n't
 call
 kid
 call

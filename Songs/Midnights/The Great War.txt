@@ -27,7 +27,6 @@ blur
 bloodshed
 crimson
 clover
-uh-huh
 sweet
 dream
 hand
@@ -38,7 +37,6 @@ great
 war
 always
 remember
-uh-huh
 tear
 letter
 vowed
@@ -77,7 +75,6 @@ justified
 bloodshed
 crimson
 clover
-uh-huh
 bomb
 closer
 hand
@@ -88,7 +85,6 @@ great
 war
 always
 remember
-uh-huh
 burning
 ember
 vowed
@@ -97,8 +93,6 @@ anymore
 survived
 great
 war
-uh-huh
-uh-huh
 turned
 something
 bigger
@@ -147,7 +141,6 @@ back
 bloodshed
 crimson
 clover
-uh-huh
 worst
 hand
 one
@@ -157,23 +150,17 @@ great
 war
 always
 remember
-uh-huh
 burned
 better
 vowed
 would
 always
-'cause
 survived
 great
 war
-uh-huh
-uh-huh
 always
-'cause
 survived
 great
 war
-uh-huh
 vow
 always

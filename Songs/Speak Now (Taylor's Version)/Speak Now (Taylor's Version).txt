@@ -36,7 +36,6 @@ lose
 daydream
 stand
 say
-n't
 say
 yes
 run
@@ -45,7 +44,6 @@ meet
 church
 back
 door
-n't
 wait
 say
 single
@@ -79,7 +77,6 @@ queen
 know
 wish
 wish
-n't
 say
 yes
 run
@@ -88,7 +85,6 @@ meet
 church
 back
 door
-n't
 wait
 say
 single
@@ -97,22 +93,15 @@ need
 hear
 said
 speak
-n't
 say
 yes
-run
-away
 run
 away
 meet
 church
 back
 door
-n't
 wait
-say
-single
-vow
 say
 single
 vow
@@ -120,12 +109,6 @@ time
 running
 said
 speak
-run
-away
-la
-say
-single
-vow
 hear
 preacher
 say
@@ -166,7 +149,6 @@ meet
 church
 back
 door
-n't
 wait
 say
 single
@@ -177,8 +159,7 @@ said
 speak
 say
 let
-run
-away
+u
 run
 away
 meet
@@ -187,9 +168,6 @@ back
 door
 baby
 say
-vow
-say
-single
 vow
 glad
 around

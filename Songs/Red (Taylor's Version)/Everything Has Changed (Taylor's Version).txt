@@ -46,7 +46,6 @@ want
 know
 know
 know
-'cause
 know
 said
 hello
@@ -63,7 +62,6 @@ changed
 know
 held
 door
-'ll
 mine
 know
 since
@@ -118,7 +116,6 @@ want
 know
 know
 know
-'cause
 know
 said
 hello
@@ -135,7 +132,6 @@ changed
 know
 held
 door
-'ll
 mine
 know
 since

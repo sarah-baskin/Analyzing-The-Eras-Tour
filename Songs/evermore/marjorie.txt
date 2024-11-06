@@ -23,7 +23,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 head
@@ -33,7 +32,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 never
@@ -62,7 +60,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 head
@@ -72,7 +69,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 autumn
@@ -86,6 +82,7 @@ long
 limb
 frozen
 swim
+would
 always
 go
 past
@@ -104,13 +101,11 @@ question
 asked
 asked
 write
-'ve
 kept
 every
 grocery
 store
 receipt
-'cause
 every
 scrap
 would
@@ -129,7 +124,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 head
@@ -139,7 +133,6 @@ dead
 died
 stay
 dead
-'re
 alive
 alive
 know

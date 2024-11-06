@@ -1,7 +1,4 @@
 empire
-empire
-empire
-empire
 golden
 age
 held
@@ -116,11 +113,7 @@ ground
 want
 know
 let
-let
 castle
 crumbling
 want
 know
-empire
-empire
-empire

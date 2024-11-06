@@ -37,8 +37,6 @@ word
 'bout
 get
 back
-get
-back
 back
 mind
 asking
@@ -84,8 +82,6 @@ word
 'bout
 get
 back
-get
-back
 back
 mind
 asking
@@ -112,8 +108,6 @@ go
 known
 word
 'bout
-get
-back
 get
 back
 back

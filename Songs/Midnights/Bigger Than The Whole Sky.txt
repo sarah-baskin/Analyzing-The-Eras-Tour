@@ -12,7 +12,6 @@ touch
 becomes
 sick
 sadness
-'cause
 sea
 goodbye
 goodbye
@@ -49,7 +48,6 @@ thing
 come
 turned
 ash
-'cause
 meant
 say
 word
@@ -72,8 +70,6 @@ without
 never
 going
 meet
-could
-would
 could
 would
 could

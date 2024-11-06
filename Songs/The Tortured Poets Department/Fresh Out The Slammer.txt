@@ -8,8 +8,6 @@ slammer
 know
 first
 call
-fresh
-slammer
 another
 summer
 takin
@@ -52,8 +50,6 @@ slammer
 know
 first
 call
-fresh
-slammer
 camera
 flash
 welcome
@@ -97,7 +93,6 @@ wait
 porch
 light
 gleam
-gleam
 one
 say
 girl
@@ -108,8 +103,6 @@ done
 would
 matter
 anyway
-ai
-n't
 way
 going
 screw

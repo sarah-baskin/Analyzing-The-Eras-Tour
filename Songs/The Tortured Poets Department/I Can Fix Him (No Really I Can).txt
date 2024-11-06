@@ -90,15 +90,12 @@ god
 help
 told
 man
-told
-man
 good
 lord
 need
 lift
 finger
 fix
-really
 really
 woah
 maybe

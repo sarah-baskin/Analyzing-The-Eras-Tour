@@ -30,7 +30,6 @@ start
 shit
 tell
 end
-n't
 get
 sad
 get
@@ -70,7 +69,6 @@ start
 shit
 tell
 end
-n't
 get
 sad
 get
@@ -113,7 +111,6 @@ start
 shit
 tell
 end
-n't
 get
 sad
 get

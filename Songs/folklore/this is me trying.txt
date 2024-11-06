@@ -16,7 +16,6 @@ car
 road
 lookout
 could
-'ve
 followed
 fear
 way
@@ -76,7 +75,6 @@ hard
 anywhere
 day
 want
-'re
 flashback
 film
 reel
@@ -86,10 +84,6 @@ town
 wanted
 know
 trying
-maybe
-quite
-know
-say
 wanted
 know
 trying

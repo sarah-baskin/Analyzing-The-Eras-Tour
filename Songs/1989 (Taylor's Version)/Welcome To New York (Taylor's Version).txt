@@ -107,8 +107,6 @@ blind
 welcome
 new
 york
-new
-york
 waitin
 welcome
 new

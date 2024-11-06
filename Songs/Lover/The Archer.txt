@@ -3,7 +3,6 @@ ready
 combat
 say
 want
-'cause
 cruelty
 win
 movie
@@ -79,11 +78,6 @@ see
 right
 see
 right
-'cause
-see
-right
-see
-right
 see
 right
 see
@@ -101,10 +95,8 @@ horse
 king
 men
 could
-n't
 put
 together
-'cause
 enemy
 started
 friend
@@ -118,10 +110,6 @@ leave
 darling
 could
 stay
-see
-right
-see
-right
 could
 stay
 could

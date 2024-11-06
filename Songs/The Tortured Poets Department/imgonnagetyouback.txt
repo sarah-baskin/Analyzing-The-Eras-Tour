@@ -29,12 +29,10 @@ bubbly
 fix
 face
 goin
-yeah
 whether
 going
 wife
-gon
-na
+going
 smash
 bike
 decided
@@ -60,11 +58,8 @@ make
 want
 think
 twice
-'ll
 find
 never
-mine
-'re
 mine
 small
 talk
@@ -103,8 +98,7 @@ end
 whether
 going
 wife
-gon
-na
+going
 smash
 bike
 decided
@@ -129,11 +123,8 @@ make
 want
 think
 twice
-'ll
 find
 never
-mine
-'re
 mine
 feel
 coming
@@ -160,8 +151,6 @@ bygone
 era
 fadin
 gray
-fading
-gray
 broke
 piece
 still
@@ -181,8 +170,7 @@ way
 whether
 going
 wife
-gon
-na
+going
 smash
 bike
 decided
@@ -208,7 +196,6 @@ make
 want
 think
 twice
-'ll
 find
 never
 mine

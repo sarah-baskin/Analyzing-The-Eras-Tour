@@ -51,8 +51,6 @@ missile
 mad
 could
 glaad
-could
-glaad
 sunshine
 street
 parade
@@ -77,7 +75,6 @@ urge
 scream
 people
 hate
-'cause
 shade
 never
 made
@@ -108,15 +105,9 @@ need
 calm
 need
 calm
-need
-calm
-'re
-loud
-'re
 loud
 like
 need
-stop
 stop
 like
 step

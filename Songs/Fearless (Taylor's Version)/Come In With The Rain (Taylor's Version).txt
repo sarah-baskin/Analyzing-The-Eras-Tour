@@ -25,7 +25,6 @@ find
 leave
 window
 open
-'cause
 tired
 night
 call
@@ -60,7 +59,6 @@ clear
 leave
 window
 open
-'cause
 tired
 night
 call
@@ -80,7 +78,6 @@ say
 leave
 window
 open
-'cause
 tired
 night
 game

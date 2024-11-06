@@ -27,7 +27,6 @@ ah
 take
 take
 home
-'re
 lover
 could
 let
@@ -58,9 +57,6 @@ ah
 take
 take
 home
-forever
-ever
-'re
 lover
 lady
 gentleman
@@ -105,8 +101,5 @@ ah
 take
 take
 home
-forever
-ever
-'re
 darling
 lover

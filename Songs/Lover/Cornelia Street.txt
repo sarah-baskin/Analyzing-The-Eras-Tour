@@ -136,9 +136,6 @@ mystified
 city
 scream
 name
-city
-scream
-name
 baby
 terrified
 ever
@@ -186,9 +183,6 @@ mystified
 city
 scream
 name
-city
-scream
-name
 baby
 terrified
 ever
@@ -206,9 +200,6 @@ cornelia
 street
 want
 lose
-hope
-never
-end
 would
 never
 walk
@@ -216,7 +207,6 @@ cornelia
 street
 want
 lose
-yeah
 rent
 place
 cornelia

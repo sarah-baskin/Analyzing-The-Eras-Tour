@@ -21,7 +21,6 @@ go
 stone
 every
 day
-n't
 sit
 wait
 grieving

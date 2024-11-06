@@ -28,7 +28,6 @@ like
 darling
 ever
 grow
-n't
 ever
 grow
 stay
@@ -36,7 +35,6 @@ little
 darling
 ever
 grow
-n't
 ever
 grow
 could
@@ -45,8 +43,6 @@ simple
 let
 nobody
 hurt
-wo
-n't
 let
 one
 break
@@ -58,7 +54,6 @@ never
 grow
 never
 grow
-'re
 car
 way
 movie
@@ -90,7 +85,6 @@ school
 darling
 ever
 grow
-n't
 ever
 grow
 stay
@@ -98,7 +92,6 @@ little
 darling
 ever
 grow
-n't
 ever
 grow
 could
@@ -183,7 +176,6 @@ simple
 darling
 ever
 grow
-n't
 ever
 grow
 stay
@@ -191,7 +183,6 @@ little
 darling
 ever
 grow
-n't
 ever
 grow
 could
@@ -200,10 +191,6 @@ simple
 let
 nobody
 hurt
-never
-grow
-wo
-n't
 let
 one
 break
@@ -213,10 +200,6 @@ though
 want
 please
 try
-never
-grow
-never
-grow
 never
 grow
 never
