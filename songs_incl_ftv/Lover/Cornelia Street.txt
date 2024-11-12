@@ -28,7 +28,7 @@ pointed
 arrow
 head
 leading
-u
+us
 home
 i
 hope

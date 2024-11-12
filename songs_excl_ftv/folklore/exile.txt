@@ -19,7 +19,7 @@ five
 whole
 minute
 pack
-u
+us
 leave
 me
 it

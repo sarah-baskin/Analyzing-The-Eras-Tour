@@ -197,7 +197,7 @@ lose
 my
 number
 let
-u
+us
 consider
 lesson
 learned

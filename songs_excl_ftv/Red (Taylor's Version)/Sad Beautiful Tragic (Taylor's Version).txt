@@ -95,7 +95,7 @@ listen
 hang
 give
 life
-u
+us
 we
 not
 get

@@ -178,7 +178,7 @@ i
 break
 free
 leave
-u
+us
 ruin
 took
 dagger

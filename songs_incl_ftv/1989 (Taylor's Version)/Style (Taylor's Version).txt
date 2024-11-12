@@ -30,7 +30,7 @@ it
 lead
 i
 watch
-u
+us
 go
 'round
 'round

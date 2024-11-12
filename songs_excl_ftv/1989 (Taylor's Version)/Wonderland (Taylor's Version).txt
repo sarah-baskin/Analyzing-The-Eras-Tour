@@ -20,7 +20,7 @@ control
 not
 they
 tell
-u
+us
 not
 rush
 thing
@@ -110,7 +110,7 @@ scream
 not
 they
 tell
-u
+us
 not
 rush
 thing

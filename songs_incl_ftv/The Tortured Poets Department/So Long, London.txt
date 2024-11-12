@@ -28,7 +28,7 @@ my
 spine
 split
 carrying
-u
+us
 hill
 wet
 my
@@ -194,7 +194,7 @@ waitin
 proof
 you
 sacrificed
-u
+us
 god
 your
 bluest

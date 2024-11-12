@@ -243,7 +243,7 @@ run
 hide
 it
 made
-u
+us
 turn
 right
 back

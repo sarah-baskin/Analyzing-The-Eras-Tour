@@ -46,7 +46,7 @@ explain
 photo
 i
 saw
-u
+us
 instead
 somehow
 i

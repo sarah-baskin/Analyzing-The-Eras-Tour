@@ -8,7 +8,7 @@ i
 drive
 away
 none
-u
+us
 thought
 it
 going
@@ -110,7 +110,7 @@ we
 say
 going
 save
-u
+us
 fallout
 we
 know
