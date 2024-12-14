@@ -34,7 +34,7 @@ i
 should
 have
 seen
-sign
+signs
 should
 have
 read
@@ -43,7 +43,7 @@ wall
 realized
 distance
 your
-eye
+eyes
 i
 would
 be
@@ -111,7 +111,7 @@ it
 back
 way
 it
-wa
+was
 before
 would
 you

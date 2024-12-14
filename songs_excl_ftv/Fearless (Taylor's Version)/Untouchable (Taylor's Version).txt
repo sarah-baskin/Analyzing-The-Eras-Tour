@@ -45,7 +45,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your
@@ -111,7 +111,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your
@@ -185,7 +185,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your
@@ -212,7 +212,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your
@@ -268,7 +268,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your
@@ -286,7 +286,7 @@ is
 like
 million
 little
-star
+stars
 spellin
 out
 your

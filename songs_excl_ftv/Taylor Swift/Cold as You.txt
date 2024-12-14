@@ -44,7 +44,7 @@ not
 no
 use
 defending
-word
+words
 you
 will
 never
@@ -65,7 +65,7 @@ cold
 you
 you
 put
-wall
+walls
 paint
 them
 all
@@ -107,7 +107,7 @@ not
 no
 use
 defending
-word
+words
 you
 will
 never
@@ -164,7 +164,7 @@ is
 condescending
 counting
 all
-scar
+scars
 you
 made
 i

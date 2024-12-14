@@ -2,12 +2,12 @@ it
 is
 strange
 think
-song
+songs
 we
 used
 sing
-smile
-flower
+smiles
+flowers
 everything
 is
 gone
@@ -21,7 +21,7 @@ even
 just
 lookin
 you
-feel
+feels
 wrong
 you
 say
@@ -35,7 +35,7 @@ given
 one
 chance
 it
-wa
+was
 moment
 weakness
 you
@@ -95,7 +95,7 @@ be
 begging
 forgiveness
 my
-foot
+feet
 you
 should
 have
@@ -118,7 +118,7 @@ you
 know
 all
 right
-thing
+things
 say
 do
 you
@@ -141,7 +141,7 @@ need
 one
 chance
 it
-wa
+was
 moment
 weakness
 you
@@ -201,7 +201,7 @@ be
 begging
 forgiveness
 my
-foot
+feet
 you
 should
 have
@@ -221,11 +221,11 @@ you
 go
 tell
 me
-wa
+was
 it
 worth
 it
-wa
+was
 she
 worth
 no
@@ -288,7 +288,7 @@ be
 begging
 forgiveness
 my
-foot
+feet
 you
 should
 have

@@ -10,7 +10,7 @@ are
 bloodthirsty
 out
 window
-pane
+panes
 talking
 utter
 nonsense
@@ -18,11 +18,11 @@ you
 have
 no
 idea
-string
+strings
 tied
-lever
+levers
 slowed-down
-clock
+clocks
 tethered
 all
 showmanship
@@ -43,7 +43,7 @@ may
 you
 roar
 your
-dinosaur
+dinosaurs
 you
 are
 just
@@ -82,7 +82,7 @@ lighter
 you
 you
 got
-dragonfly
+dragonflies
 above
 your
 bed
@@ -97,8 +97,8 @@ have
 no
 room
 your
-dream
-regret
+dreams
+regrets
 time
 will
 arrive

@@ -7,6 +7,7 @@ gun
 my
 eclipsed
 sun
+has
 broken
 me
 down
@@ -19,6 +20,7 @@ night
 my
 winless
 fight
+has
 frozen
 my
 ground
@@ -111,10 +113,10 @@ you
 knew
 it
 still
-hurt
+hurts
 underneath
 my
-scar
+scars
 from
 when
 they
@@ -139,10 +141,10 @@ you
 knew
 it
 still
-hurt
+hurts
 underneath
 my
-scar
+scars
 from
 when
 they
@@ -150,11 +152,11 @@ pulled
 me
 apart
 you
-wa
+was
 just
 dark
 darling
-wa
+was
 just
 hard
 when

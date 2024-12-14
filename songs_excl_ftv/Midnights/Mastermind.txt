@@ -1,10 +1,10 @@
 once
 upon
 time
-planet
-fate
+planets
+fates
 all
-star
+stars
 aligned
 you
 i
@@ -19,8 +19,8 @@ lit
 fuse
 chain
 reaction
-countermove
-ass
+countermoves
+assess
 equation
 you
 checkmate
@@ -33,7 +33,7 @@ told
 you
 none
 it
-wa
+was
 accidental
 first
 night
@@ -41,7 +41,7 @@ you
 saw
 me
 nothing
-wa
+was
 going
 stop
 me
@@ -52,7 +52,7 @@ then
 just
 like
 clockwork
-domino
+dominoes
 cascaded
 line
 i
@@ -65,7 +65,7 @@ you
 are
 mine
 it
-wa
+was
 all
 design
 because
@@ -76,7 +76,7 @@ you
 see
 all
 wisest
-woman
+women
 had
 do
 it
@@ -97,7 +97,7 @@ you
 plan
 fail
 strategy
-set
+sets
 scene
 tale
 i
@@ -105,16 +105,16 @@ am
 wind
 our
 free-flowing
-sail
+sails
 liquor
 our
-cocktail
+cocktails
 i
 told
 you
 none
 it
-wa
+was
 accidental
 first
 night
@@ -134,7 +134,7 @@ then
 just
 like
 clockwork
-domino
+dominoes
 cascaded
 line
 i
@@ -147,7 +147,7 @@ you
 are
 mine
 it
-wa
+was
 all
 my
 design
@@ -202,7 +202,7 @@ told
 you
 none
 it
-wa
+was
 accidental
 first
 night
@@ -210,7 +210,7 @@ you
 saw
 me
 nothing
-wa
+was
 going
 stop
 me
@@ -238,7 +238,7 @@ mine
 yeah
 all
 you
-wa
+was
 smile
 because
 i

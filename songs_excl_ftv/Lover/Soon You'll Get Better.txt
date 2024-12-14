@@ -1,4 +1,4 @@
-button
+buttons
 my
 coat
 were
@@ -13,9 +13,9 @@ not
 tell
 you
 i
-wa
+was
 scared
-wa
+was
 first
 time
 we
@@ -23,7 +23,7 @@ were
 there
 holy
 orange
-bottle
+bottles
 each
 night
 i
@@ -72,7 +72,7 @@ mirror
 you
 like
 nicer
-nurse
+nurses
 you
 make
 best
@@ -158,11 +158,11 @@ back
 normal
 it
 ever
-wa
+was
 it
 is
 been
-year
+years
 hoping
 i
 keep

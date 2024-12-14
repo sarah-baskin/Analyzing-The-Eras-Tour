@@ -25,7 +25,7 @@ love
 springsteen
 faded
 blue
-jean
+jeans
 tennessee
 whiskey
 somethin
@@ -36,7 +36,7 @@ him
 laughin
 i
 saw
-dimple
+dimples
 first
 then
 i
@@ -51,7 +51,7 @@ is
 is
 not
 mine
-life
+lives
 you
 know
 i
@@ -65,7 +65,7 @@ camden
 market
 afternoon
 he
-like
+likes
 my
 american
 smile
@@ -73,7 +73,7 @@ like
 child
 when
 our
-eye
+eyes
 meet
 darling
 i
@@ -87,11 +87,11 @@ met
 all
 his
 best
-mate
+mates
 i
 guess
 all
-rumor
+rumors
 are
 true
 you
@@ -108,7 +108,7 @@ i
 love
 high
 tea
-story
+stories
 from
 uni
 west
@@ -124,7 +124,7 @@ rugby
 with
 his
 school
-friend
+friends
 show
 me
 gray
@@ -132,7 +132,7 @@ sky
 rainy
 cab
 ride
-babe
+babes
 do
 not
 threaten
@@ -158,12 +158,12 @@ london
 boy
 i
 enjoy
-night
+nights
 brixton
 shoreditch
 afternoon
 he
-like
+likes
 my
 american
 smile
@@ -171,7 +171,7 @@ like
 child
 when
 our
-eye
+eyes
 meet
 darling
 i
@@ -185,11 +185,11 @@ met
 all
 his
 best
-mate
+mates
 i
 guess
 all
-rumor
+rumors
 are
 true
 you
@@ -256,7 +256,7 @@ soho
 drinkin
 afternoon
 he
-like
+likes
 my
 american
 smile
@@ -264,7 +264,7 @@ like
 child
 when
 our
-eye
+eyes
 meet
 darling
 i
@@ -278,11 +278,11 @@ met
 all
 his
 best
-mate
+mates
 i
 guess
 all
-rumor
+rumors
 are
 true
 you
