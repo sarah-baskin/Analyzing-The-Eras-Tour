@@ -106,13 +106,6 @@ king
 heart
 body
 soul
-waitin
-waitin
-one
-waitin
-waitin
-body
-soul
 end
 endings
 broken
@@ -156,8 +149,3 @@ body
 soul
 waitin
 waitin
-one
-waitin
-waitin
-body
-soul

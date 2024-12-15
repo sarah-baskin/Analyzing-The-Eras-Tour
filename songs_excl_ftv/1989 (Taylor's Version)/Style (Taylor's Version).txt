@@ -150,11 +150,6 @@ go
 style
 take
 home
-take
-home
-yeah
-take
-home
 got
 james
 dean

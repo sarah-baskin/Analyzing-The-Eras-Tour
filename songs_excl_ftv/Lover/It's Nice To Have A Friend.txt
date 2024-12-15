@@ -25,8 +25,6 @@ sleeping
 tents
 nice
 friend
-nice
-friend
 light
 pink
 sky
@@ -46,8 +44,6 @@ gave
 nerve
 touch
 hand
-nice
-friend
 nice
 friend
 church
@@ -75,9 +71,5 @@ stay
 bed
 whole
 weekend
-nice
-friend
-nice
-friend
 nice
 friend

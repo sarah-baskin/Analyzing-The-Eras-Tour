@@ -50,12 +50,6 @@ chill
 head
 know
 delicate
-cool
-said
-soon
-yet
-know
-delicate
 delicate
 third
 floor
@@ -95,12 +89,6 @@ cool
 said
 chill
 head
-know
-delicate
-cool
-said
-soon
-yet
 know
 delicate
 delicate

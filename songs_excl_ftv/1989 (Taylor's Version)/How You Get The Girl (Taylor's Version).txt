@@ -129,13 +129,6 @@ get
 girl
 girl
 works
-get
-girl
-girl
-works
-get
-girl
-girl
 works
 got
 girl

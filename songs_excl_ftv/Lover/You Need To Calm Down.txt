@@ -35,13 +35,6 @@ need
 calm
 loud
 like
-need
-stop
-like
-step
-gown
-need
-calm
 somebody
 know
 comin
@@ -85,13 +78,6 @@ need
 calm
 loud
 like
-need
-stop
-like
-step
-gown
-need
-calm
 see
 internet
 comparing
@@ -107,8 +93,6 @@ need
 calm
 loud
 like
-need
-stop
 like
 step
 gowns
