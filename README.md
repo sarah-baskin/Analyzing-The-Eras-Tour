@@ -22,13 +22,31 @@ This project was undertaken as part of my _LING 195: Introduction to Research in
 
 Within this repo, you will find all of the individual components that I used to run the experiment as well as write my paper.
 
-[Song Data](songs.csv)
+[Song Data](songs.csv) - The original song data as loaded from [shaynak](https://github.com/shaynak/taylor-swift-lyrics). Only songs from the original releases of albums (not special releases or features on other artists' work) were considered in analysis. "From the Vault" songs were excluded, but the data took from "Taylor's Version" releases for the appropriate albums.
+
+[Data Prep and Stylometric Analysis](Stylometric_Analysis.ipynb) - A walkthrough of how I took the original data, tokenized it, prepped it, and performed analysis for the stylometric features of interest (total word count, unique word count, word length, profanity, first + second person pronoun use). I then saved the tokenized data to [this folder](songs_excl_ftv)
+
+[VADER Analysis](Vader_Sentiment_Analysis.ipynb) - Sentiment analysis of the lyric data using [VADER](https://github.com/cjhutto/vaderSentiment)
+
+[TextBlob Analysis](TextBlob_Sentiment_Analysis.ipynb) - Sentiment analysis of the lyric data using [TextBlob](https://textblob.readthedocs.io/en/dev/index.html)
+
+[AFINN Analysis](Afinn_Sentiment_Analysis.ipynb) - Sentiment analysis of the lyric data using [AFINN](https://darenr.github.io/afinn/)
+
+[Graphs](graphs) - The graphs from the various analyses, put into a neat folder for ease of access
+
+[Final Paper](The_Eras_Tour.pdf) - my final paper, with my analysis of the graphs and my complete literature review
 
 
 ## Running the Project on Your Machine
 
+Ensure that all of the necessary libraries are imported on your machine, but aside from that it should just be a simple matter of forking the repo.
+
 ## How to Use the Project
+
+Use the various tools already developped in order to perform sentiment analysis on other musical artists, or introduce additional metrics and models that are better able to address specific sentiment concerns in the work of Taylor Swift.
 
 ## Credits
 
-## License
+@shaynak
+@cjhutto
+@darenr
